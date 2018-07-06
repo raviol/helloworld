@@ -1,0 +1,5 @@
+Project-Name : app-jelastic-helloworld
+Project-Version : 5.4
+Revision : ${GIT_REVISION}
+Build-Number : 77
+Build-Date : 2018-07-05 18:57 UTC
